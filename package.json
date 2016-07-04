@@ -1,0 +1,16 @@
+{
+  "name": "hmc2Test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "author": "Josh Junghun Lee",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.7.1",
+    "express": "^4.14.0",
+    "formidable": "^1.0.17",
+    "fs-extra": "^0.30.0",
+    "mysql": "^2.11.1",
+    "nodemon": "^1.9.2"
+  }
+}
